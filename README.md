@@ -4,5 +4,5 @@
 ## Опсиание проекта
 
 ## Команда
-Emir Balybaev
+Emir Balybaev <br>
 Esenkulov Tilek
