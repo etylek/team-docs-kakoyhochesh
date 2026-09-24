@@ -2,18 +2,16 @@
 # Наш DevOps проект
 
 ## Опсиание проекта
-
+Описание проекта описывающего описание проекта. <br>
 ## Команда
 Emir Balybaev <br>
-Esenkulov Tilek <br>
 Osmonov Erjan <br>
+Esenkulov Tilek 
 
 ## Стек технологий
-Docker
-Kubernetes
+Docker <br>
+Kubernetes <br>
+Linux <br>
 
 ## Инструкции по зпуску
-1. Decrypt files
-2. Open .exe file
-3. Something vydumannoe
-
+Download, extract, and launch.
