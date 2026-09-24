@@ -11,6 +11,8 @@ Osmonov Erjan <br>
 ## Стек технологий
 Docker
 Kubernetes
+Python
+Tailwind
 
 ## Инструкции по зпуску
 1. Decrypt files
