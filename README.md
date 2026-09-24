@@ -5,8 +5,15 @@
 
 ## Команда
 Emir Balybaev <br>
-Esenkulov Tilek
+Esenkulov Tilek <br>
+Osmonov Erjan <br>
 
 ## Стек технологий
+Docker
+Kubernetes
 
 ## Инструкции по зпуску
+1. Decrypt files
+2. Open .exe file
+3. Something vydumannoe
+
