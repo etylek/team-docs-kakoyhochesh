@@ -2,16 +2,20 @@
 # Наш DevOps проект
 
 ## Опсиание проекта
-Описание проекта описывающего описание проекта. <br>
+Project was created for detect some problems with licenses
+
 ## Команда
-Emir Balybaev <br>
-Osmonov Erjan <br>
-Esenkulov Tilek 
+Emir Balybaev Frontend <br>
+Esenkulov Tilek Backend <br>
+Osmonov Erjan DataBase
 
 ## Стек технологий
-Docker <br>
-Kubernetes <br>
-Linux <br>
+Java <br>
+Python <br>
+JS(Script, React) <br>
+Docker
 
 ## Инструкции по зпуску
-Download, extract, and launch.
+Dounload Repository <br>
+Open File <br>
+Run in the Main file <br>
