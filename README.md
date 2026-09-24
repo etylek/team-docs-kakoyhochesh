@@ -5,11 +5,17 @@
 Project was created for detect some problems with licenses
 
 ## Команда
-Emir Balybaev <br>
-Esenkulov Tilek
+Emir Balybaev Frontend <br>
+Esenkulov Tilek Backend <br>
+Osmonov Erjan DataBase
 
 ## Стек технологий
-Java,Python, JS(Script, React)
+Java <br>
+Python <br>
+JS(Script, React) <br>
+Docker
 
 ## Инструкции по зпуску
-in VsCode run file.name
+Dounload Repository <br>
+Open File <br>
+Run in the Main file <br>
