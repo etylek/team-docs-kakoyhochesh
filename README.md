@@ -1,8 +1,8 @@
 # team-docs-kakoyhochesh
 # Наш DevOps проект
 
-##Опсиание проекта
+## Опсиание проекта
 
-##Команда
+## Команда
 Emir Balybaev
 Esenkulov Tilek
