@@ -12,6 +12,8 @@ Osmonov Erjan DataBase
 ## Стек технологий
 Java <br>
 Python <br>
+Kubernetes <br>
+Something <br>
 JS(Script, React) <br>
 Docker
 
