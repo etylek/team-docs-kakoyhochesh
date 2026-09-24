@@ -2,11 +2,11 @@
 # Наш DevOps проект
 
 ## Опсиание проекта
-
+Описание проекта описывающего описание проекта. <br>
 ## Команда
 Emir Balybaev <br>
 Osmonov Erjan <br>
-Esenkulov Tilek
+Esenkulov Tilek 
 
 ## Стек технологий
 Docker <br>
